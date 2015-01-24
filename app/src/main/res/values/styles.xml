@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <!--   your app branding color for the app bar -->
+        <item name="colorPrimary">@color/brand_color</item>
+        <!--   darker variant for the status bar and contextual app bars -->
+        <item name="colorPrimaryDark">@color/brand_color_dark</item>
+        <!--   theme UI controls like checkboxes and text fields -->
+        <item name="colorAccent">@color/accent_color</item>
+
+        <!--this line is for pre-L devices, in order to remove elevation of the app bar when transparent-->
+        <item name="android:windowContentOverlay">@null</item>
+
+    </style>
+
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="brand_color">#4EBEE7</color>
+    <color name="brand_color_dark">#1C7B9E</color>
+    <color name="accent_color">#FFFFFF</color>
+    <color name="text_color_primary">#323333</color>
+    <color name="text_color_secondary">#5C5C5C</color>
+    <color name="text_color_tertiary">#C5C5C5</color>
+
+    <!--<color name="date_header_background">#DEDEDE</color>-->
+    <color name="date_header_background">#dfdfdf</color>
+</resources>
